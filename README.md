@@ -7,7 +7,11 @@
 
 ## GitHub Stats
 
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerDiwakar&show_icons=true&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SameerDiwakar&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SameerDiwakar&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SameerDiwakar&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SameerDiwakar&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SameerDiwakar&theme=github)
 
 
 <!---
