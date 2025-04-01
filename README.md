@@ -1,13 +1,16 @@
+<br>
+<br>
+<div align="center">
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&size=36&width=600&height=50&lines=Hi👋+I'm+Sameer+Diwakar;Aspiring+Web+Developer..;Learning+In+Public..;Empowering+Others..;Nice+To+Meet+You!&center=true">
   </p>
 
   <p>
-    <img src="github_sameer.png" alt="Sameer Diwakar GitHub Banner" width="600">
+    <img src="github_sameer.png" alt="Sameer Diwakar GitHub Banner" width="60%">
   </p>
+</div>
 
   ## 📊 GitHub Insights
-
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SameerDiwakar&theme=github">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SameerDiwakar&theme=github">
