@@ -31,19 +31,23 @@
     </a>
   </p>
 
-  ## 📩 Reach Me
+## 🤝 Let's Collaborate
 
-  <p>
-    <a href="https://linkedin.com/in/sameerdiwakar">
-      <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://www.instagram.com/sameer.x27">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white">
-    </a>
-    <a href="https://devfolio.co/@sameerdiwakar">
-      <img src="https://img.shields.io/badge/Devfolio-%230A0A0A?logo=devfolio&logoColor=white">
-    </a>
-    <a href="mailto:diwakarsameer27@gmail.com">
-      <img src="https://img.shields.io/badge/Email-%23D14836?logo=gmail&logoColor=white">
-    </a>
-  </p>
+**📧 Email:** diwakarsameer27@gmail.com
+
+### 🔗 Socials
+
+<p>
+  <a href="https://linkedin.com/in/sameerdiwakar">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/sameer.x27">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://devfolio.co/@sameerdiwakar">
+    <img src="https://img.shields.io/badge/Devfolio-%230A0A0A?logo=devfolio&logoColor=white" alt="Devfolio">
+  </a>
+</p>
+
+
+
